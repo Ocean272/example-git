@@ -1,1 +1,1 @@
-To test git pull and try to git merge
+To test git pull and try to git fetch first
